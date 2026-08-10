@@ -46,8 +46,7 @@ Repo id: `1.19-amoled-390x390-qspi-co5300`
 
 <p align="center"><img alt="AM119Q390390FLS2" src="./images/AM119Q390390FLS2.png" width="320" /></p>
 
-**Notes:** Module.
-
+**Notes:** With touch (CST820).
 ---
 
 ## How to Switch Branches

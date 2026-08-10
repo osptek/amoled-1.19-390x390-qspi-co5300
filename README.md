@@ -46,8 +46,7 @@
 
 <p align="center"><img alt="AM119Q390390FLS2" src="./images/AM119Q390390FLS2.png" width="320" /></p>
 
-**说明：** 模组。
-
+**说明：** 带触摸（CST820）。
 ---
 
 ## 如何切换分支
