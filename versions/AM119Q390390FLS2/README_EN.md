@@ -31,7 +31,7 @@
 
 OSPTEK **1.19″ 390×390 AMOLED** is a **QSPI** color display module driven by **CO5300**, with touch controller **CST820**. The square resolution suits wearables and compact round HMI panels.
 
-Spec ID (repository name): `1.19-amoled-390x390-qspi-co5300`
+Spec ID (repository name): `amoled-1.19-390x390-qspi-co5300`
 
 Current module version: **AM119Q390390FLS2**. Electrical and mechanical details follow [`docs/AM_119_Q390390_FLS_2_2507034eef.pdf`](./docs/AM_119_Q390390_FLS_2_2507034eef.pdf).
 
@@ -60,7 +60,7 @@ Current module version: **AM119Q390390FLS2**. Electrical and mechanical details 
 ## Repository layout
 
 ```text
-1.19-amoled-390x390-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
+amoled-1.19-390x390-qspi-co5300/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM119Q390390FLS2/                                # full materials for this part number
         ├── README.md
