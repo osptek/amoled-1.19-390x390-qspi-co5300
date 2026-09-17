@@ -1,0 +1,14 @@
+id: amoled-1.19-390x390-qspi-co5300
+category: displays
+
+size: "1.19"
+panel: amoled
+resolution: 390x390
+interface: [qspi]
+shape: round
+
+versions:
+  - id: AM119Q390390FLS2
+    driver: CO5300
+    touch: CST820
+    note: none
