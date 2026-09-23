@@ -77,6 +77,7 @@ amoled-1.19-390x390-qspi-co5300/                                # repo root (nav
 | Resource | Link |
 | ---- | ---- |
 | Product datasheet (AM119Q390390FLS2) | [`docs/AM_119_Q390390_FLS_2_2507034eef.pdf`](./docs/AM_119_Q390390_FLS_2_2507034eef.pdf) |
+| 3D drawing (AM119Q390390FLS2) | [`docs/AM119Q390390FLS2.dwg`](./docs/AM119Q390390FLS2.dwg) |
 | Driver IC datasheet (CO5300) | [`docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf`](./docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf) |
 | Touch IC datasheet (CST820) | [`docs/DS_CST_820_V1_2_e0543732ca.pdf`](./docs/DS_CST_820_V1_2_e0543732ca.pdf) |
 | Init sequence (text) | [`docs/AM119Q390390FLS2.txt`](./docs/AM119Q390390FLS2.txt) |

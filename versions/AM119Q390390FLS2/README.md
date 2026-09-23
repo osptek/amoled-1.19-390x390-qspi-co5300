@@ -77,6 +77,7 @@ amoled-1.19-390x390-qspi-co5300/                                # 仓库根（�
 | 资料 | 链接 |
 | ---- | ---- |
 | 产品规格书（AM119Q390390FLS2） | [`docs/AM_119_Q390390_FLS_2_2507034eef.pdf`](./docs/AM_119_Q390390_FLS_2_2507034eef.pdf) |
+| 3D 图纸（AM119Q390390FLS2） | [`docs/AM119Q390390FLS2.dwg`](./docs/AM119Q390390FLS2.dwg) |
 | 驱动 IC 数据手册（CO5300） | [`docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf`](./docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf) |
 | 触摸 IC 数据手册（CST820） | [`docs/DS_CST_820_V1_2_e0543732ca.pdf`](./docs/DS_CST_820_V1_2_e0543732ca.pdf) |
 | 初始化序列（文本） | [`docs/AM119Q390390FLS2.txt`](./docs/AM119Q390390FLS2.txt) |
